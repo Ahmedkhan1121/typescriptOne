@@ -200,3 +200,14 @@ let year = 2017;
 
 // main();
 
+
+
+for (let i =1; i <=10; i++){
+    const tableNumber =5;
+    console.log(`${tableNumber} x ${i} = ${tableNumber*i}`);
+}
+
+for (let i =1; i <=10; i++){
+    const tableNumber =3;
+    console.log(`${tableNumber} x ${i} = ${tableNumber*i}`);
+}

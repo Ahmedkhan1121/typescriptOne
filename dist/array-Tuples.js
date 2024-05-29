@@ -9,5 +9,3 @@ let filtArr = myName1.filter(function (e, i, a) {
     return typeof e === "number";
 });
 console.log(filtArr);
- 
-let mapArr
